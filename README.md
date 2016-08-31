@@ -47,7 +47,9 @@ and your Bluetooth Radio, you will be presented with a Notificiation and a Link 
 are close to a Beehive that has been tagged with a Beacon. By clicking on that (shortened) link,
 you are directed to a page for that BeeHive, organized by [Geo URI](https://en.wikipedia.org/wiki/Geo_URI_scheme).
 For example, a directory (and web page) will be created for each hive/location using the form :
+
   https://patternagents.github.io/Beacons4Bees/hives/geo/37.786971/-122.399677/index.html
+
 where "/37.786971/-122.399677" is the lattitude and longitude of the hive location.
 The index file may contain a snapshot of live data, including a link to the data repository (data history).
 
