@@ -5,7 +5,7 @@ Applying Google EddyStone Beacons to Geo-locating  Wild and Domestic Beehives
 Google Eddystone Beacons provide a simple way to "tag" a physical location,
 similar to the AltBeacon and iBeacon technologies. To date, Beacons have
 been largley used for merchandising and marketing applications in malls and stores.
-However, it also has more general applications for locating objects in physical space,
+However, it also has more general application for locating objects in physical space,
 such as finding your lost car keys, or indicating your proximity to wild or domestic Beehives.
 
 There are many reasons to geo-tag wild and domestic Beehives, 
