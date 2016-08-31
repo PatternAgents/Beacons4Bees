@@ -9,7 +9,7 @@ However, it also has more general application for locating objects in physical s
 such as finding your lost car keys, or indicating your proximity to wild or domestic Beehives.
 
 There are many reasons to geo-tag wild and domestic Beehives, 
-one is simply to raise awareness of HoneyBee Colany Collapse Disorder (CCD),
+one is simply to raise awareness of HoneyBee Colony Collapse Disorder (CCD),
 and the state of health of local Beehives; another would be to alert 
 those that might be susceptible to anaphylactic shock that they should be 
 mindful of their surroundings. (i.e. Don't climb that lovely tree with the huge wild Beehive in it...)
@@ -27,9 +27,9 @@ a Smartphone Application that would allow them to use their data connection to "
 data from the Beacons to the internet, when they are in Proximity to a Beacon.
 
 There are many factors that have been attributed to causing 
-HoneyBee Colany Collapse Disorder (CCD),  including :
+HoneyBee Colony Collapse Disorder (CCD),  including :
 - Wild Habit Destruction
-- Monocroping (single crop lack diversive food supplies)
+- Monocroping (single crops lack diverse food supplies)
 - Neonicotinoids and general pesticide overuse
 - Mites and parasites
 - Fungal and other Viral infections
@@ -46,7 +46,7 @@ is in close proximity (around 30 meters) to the Beacon. By enabling the "Physica
 and your Bluetooth Radio, you will be presented with a Notificiation and a Link to a Web Page when you
 are close to a Beehive that has been tagged with a Beacon. By clicking on that (shortened) link,
 you are directed to a page for that BeeHive, organized by [Geo URI](https://en.wikipedia.org/wiki/Geo_URI_scheme).
-For example, a directory (and web page) will be created for each hive/location using the form :
+For example, a directory (and web page) can be created for each hive/location using the form :
 
   https://patternagents.github.io/Beacons4Bees/hives/geo/37.786971/-122.399677/index.html
 
