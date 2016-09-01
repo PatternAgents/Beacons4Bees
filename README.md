@@ -36,7 +36,7 @@ HoneyBee Colony Collapse Disorder (CCD),  including :
 - Monocroping (single crops lack diverse food supplies)
 - Neonicotinoids and general pesticide overuse
 - Mites and parasites
-- Fungal and other Viral infections
+- Fungal, Viral, or other infections
 
 It is hoped that these Beacons will not only be able to help locate Beehives for marking
 and observation purposes, but also to begin to log the health and activity of many 
@@ -56,7 +56,7 @@ For example, a directory (and web page) can be created for each hive/location us
 
 where "/37.786971/-122.399677" is the lattitude and longitude of the hive location.
 
-The URL will need to be "shortened" using a shortening service like https://bit.ly or others.
+That URL will need to be "shortened" using a shortening service like https://bit.ly or others.
 
 You can also use Git.Io to shorten your URL :
 
@@ -71,7 +71,7 @@ Location: https://github.com/...
 ```
 
 The index file may contain a snapshot of live data, including a link to the data repository (data history).
-We may also include a forum link, whre visitors to that Hive can log their visit and observations.
+We may also include a forum link, where visitors to that Hive can log their visit and observations.
 
 ## How Can I Join? ##
 Put up a Beacon on your (or a Wild) Beehive, then submit a pull request for this repository to add the web page
@@ -81,6 +81,8 @@ for your site. Submissions with any overt marketing and advertising, or offensiv
 We are working on a list of Beacon suppliers and materials, check back soon...
 
 ## I can't afford a Beacon, can you send me one? ##
-We're putting a support/contribute link on the pages, and if we get enough interest and support,
-we'll begin to make hardware available for others to install.
+We're putting together support/contribute links for these the pages, 
+and if we get enough interest and support,
+then we can begin to make hardware available for others to install.
+
 
