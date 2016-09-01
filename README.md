@@ -57,6 +57,7 @@ For example, a directory (and web page) can be created for each hive/location us
 where "/37.786971/-122.399677" is the lattitude and longitude of the hive location.
 
 The URL will need to be "shortened" using a shortening service like https://bit.ly or others.
+
 You can also use Git.Io to shorten your URL :
 
 ```
