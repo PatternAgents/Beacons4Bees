@@ -49,12 +49,7 @@ Google EddyStone Beacons provide a URL (17 characters in length only!) to a smar
 is in close proximity (around 30 meters) to the Beacon. By enabling the "Physical Web" in Google Chrome
 and your Bluetooth Radio, you will be presented with a Notificiation and a Link to a Web Page when you
 are close to a Beehive that has been tagged with a Beacon. By clicking on that (shortened) link,
-you are directed to a page for that BeeHive, organized by [Geo URI](https://en.wikipedia.org/wiki/Geo_URI_scheme).
-For example, a directory (and web page) can be created for each hive/location using the form :
-
-  https://patternagents.github.io/Beacons4Bees/hives/geo/37.786971/-122.399677/index.html
-
-where "/37.786971/-122.399677" is the lattitude and longitude of the hive location.
+you are directed to a page for that BeeHive. This could be any https:// (i.e. secure) URL.
 
 That URL will need to be "shortened" using a shortening service like https://bit.ly or others.
 
@@ -73,12 +68,35 @@ Location: https://github.com/...
 The index file may contain a snapshot of live data, including a link to the data repository (data history).
 We may also include a forum link, where visitors to that Hive can log their visit and observations.
 
-## How Can I Join? ##
-Put up a Beacon on your (or a Wild) Beehive, then submit a pull request for this repository to add the web page
-for your site. Submissions with any overt marketing and advertising, or offensive material will not be accepted.
+For this demonstration, we have organized some example pages by [Geo URI](https://en.wikipedia.org/wiki/Geo_URI_scheme).
+For example, a directory (and web page) could be created for each hive/location using a form similar to :
+
+  https://patternagents.github.io/Beacons4Bees/hives/geo/37.786971/~122.399677/index.html
+
+where "/37.786971/~122.399677" is the lattitude and longitude of the hive location.
+
+## Are there already BeeHive Databases? Where? ##
+There are several, often organized by country or region.
+One effort that is already underway is the [Smart Citizen Project](https://smartcitizen.me/) 
+for collecting (big) data worldwide, and several BeeHive makers and manufacturers are employing that (Wi-Fi) platform.
+It uses a REST based web interface, combined with a sensor platform based on the Arduino development environment.
+BeeHives and kits available from makers like [Open Source Beehives](http://opensourcebeehives.net/) 
+and [Bee Thinking](http://www.beethinking.com/) here in Portland, can be instrumented with Wi-Fi Platforms like
+the [Smart Citizen Project](https://smartcitizen.me/) for monitoring and collecting data.
+While this is an excellent solution for backyard and commercial beehives, Wi-Fi platforms 
+generally work best tethered to a power source like USB, or a wall adapter. 
+
+Beacons for BeeHives augments that effort with a lower power solution for wild beehives, and more remote
+applications in rugged terrain or third-world countries, based on Google EddyStone Beacons doing data logging,
+and piggyback transfer of data using the smartphone cell service or Wi-Fi (or delayed upload once service becomes available.)
 
 ## Where can I get a Beacon? ##
-We are working on a list of Beacon suppliers and materials, check back soon...
+We are working on a list of (open source) Beacon suppliers and materials, check back soon...
+
+## How Can I Help? ##
+We're starting a crowd sourcing campaign to get PatternAgents Beacon Kits out to folks who may be interested.
+Please join our mailing list at [Patternagents](https://patternagents.github.io)
+
 
 ## I can't afford a Beacon, can you send me one? ##
 We're putting together support/contribute links for these the pages, 
