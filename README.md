@@ -43,6 +43,8 @@ and observation purposes, but also to begin to log the health and activity of ma
 wild and domestic Beehives. BY creating a larger data set of wild and domestic Beehives,
 we can begin to track the overall health of our important crop pollinators, the Bees.
 
+![Wild Beehive](https://patternagents.github.io/Beacons4Bees/hives/geo:45.4565208-122.7891868.png)
+
 ## How Does it Work? ##
 
 Google EddyStone Beacons provide a URL (17 characters in length only!) to a smartphone when it
