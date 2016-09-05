@@ -103,7 +103,7 @@ We're putting together support/contribute links for these the pages,
 and if we get enough interest and support,
 then we can begin to make hardware available for others to install.
 
-![Beacons for Bees](https://github.com/PatternAgents/Beacons4Bees/blob/master/images/beacons_for_bees.jpg "Beacons for Bees")
+[!(https://github.com/PatternAgents/Beacons4Bees/blob/master/images/beacons_for_bees.jpg "Beacons for Bees")](https://www.meetup.com/Digital-Design-Workshop/events/233724699/)
 
 ## ##
 
