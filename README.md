@@ -71,9 +71,9 @@ We may also include a forum link, where visitors to that Hive can log their visi
 For this demonstration, we have organized some example pages by [Geo URI](https://en.wikipedia.org/wiki/Geo_URI_scheme).
 For example, a directory (and web page) could be created for each hive/location using a form similar to :
 
-  https://patternagents.github.io/Beacons4Bees/hives/geo_45.4565208_-122.7891868.html
+  https://patternagents.github.io/Beacons4Bees/hives/geo:45.4565208-122.7891868.html
 
-where "45.4565208_-122.7891868" is the lattitude and longitude of the hive location.
+where "45.4565208-122.7891868" is the lattitude and longitude of the hive location.
 
 ## Are there already BeeHive Databases? Where? ##
 There are several, often organized by country or region.
