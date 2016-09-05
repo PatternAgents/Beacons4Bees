@@ -8,5 +8,7 @@ Example platform ports that create a small Eddystone Beacon.
 
 Based on the [Cypress "100 Projects" Examples](https://github.com/cypresssemiconductorco/PSoC-4-BLE/blob/master/100_Projects_in_100_Days/Project050_Eddystone/Eddystone/Eddystone_EH_Kit.cydsn/Eddystone.c)
 
-[Project Firmware]()
+[Project Firmware](https://github.com/PatternAgents/Beacons4Bees/blob/master/platforms/CY8CKIT-042-BLE-A/PSoC_4_BLE_Eddystone.Bundle01.zip)
+
+Note: This Project Firmware requires the [PSoC Creator IDE](http://www.cypress.com/products/psoc-creator-integrated-design-environment-ide) to make changes.
 
