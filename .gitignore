@@ -1,3 +1,6 @@
+#embargo for now
+*.odp
+
 # Object files
 *.o
 *.ko
